@@ -1,0 +1,2 @@
+kore-plugins-flask
+flask-admin
